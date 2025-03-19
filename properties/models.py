@@ -39,7 +39,3 @@ class Properties(models.Model):
 
     def __str__(self):
         return str(self.property_id)
-    global 
-    models.GenericIPAddressField(_(";bb
-                                   ]ef;globalb
-                                   dgeg"), protocol="both", unpack_ipv4=False)
